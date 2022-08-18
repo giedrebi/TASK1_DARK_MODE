@@ -4,10 +4,7 @@
 
 * With this button you can switch website's body backround color from light to dark and back. If you change width or height of input the bubble will adapt to it. 
 
-* For this task I was using:
-  -HTML, 
-  -CSS,
-  -Javascript.
+* For this task I was using HTML, CSS and Javascript.
 
 ### Launch procedure
 1. Go to the folder where you want clone repository, then open GIT BASH/ terminal there. 
