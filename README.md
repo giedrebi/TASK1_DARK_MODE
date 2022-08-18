@@ -1,5 +1,7 @@
 # TASK 1 DARK/LIGHT MODE SWITCH BUTTON
 
+Links: https://giedrebi.github.io/TASK1_DARK_MODE/
+
 ### About task
 
 * With this button you can switch website's body backround color from light to dark and back. If you change width or height of input the bubble will adapt to it. 
