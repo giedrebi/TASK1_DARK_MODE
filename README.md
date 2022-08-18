@@ -1,6 +1,6 @@
 # TASK 1 DARK/LIGHT MODE SWITCH BUTTON
 
-Links: https://giedrebi.github.io/TASK1_DARK_MODE/
+Link: https://giedrebi.github.io/TASK1_DARK_MODE/
 
 ### About task
 
